@@ -24,3 +24,13 @@ De applicatie is verdeeld in drie hoofdmodules:
 - **Appointment** – bevat de afsprakenlogica  
 
 Binnen deze modules worden services gebruikt om specifieke functionaliteit te bundelen, zoals toevoegen, verwijderen of tonen van gegevens. Dit maakt de code overzichtelijker, onderhoudbaarder en makkelijker uit te breiden.
+
+--------------------------------------------
+
+Na feedback heb ben ik gaan kijken naar aanpassingen, zoals hierboven aangeven zou ik zelf alles opsplitsen. Dat heb ik dan nu ook gedaan met Unit Testing, SOLID & Design Patterns in mijn achterhoofd.
+Door Patterns toe te passen en te zien wat het testen schrijven later makkelijker zou maken.
+
+Voor zowel voor het Patienten, Artsen en Afpraken gedeelte is het volgende aangemaakt:
+- Repository
+- IRepository
+- Service 
